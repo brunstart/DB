@@ -2,4 +2,4 @@
 
 20년도 1학기 DB programming
 
-mariaDB / mySQL workbench 
+mariaDB / mySQL workbench 사용
