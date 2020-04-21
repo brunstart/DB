@@ -1,2 +1,5 @@
 # DB
-Studying every tues/thurs/saturdays
+
+20년도 1학기 DB programming
+
+mariaDB / mySQL workbench 
